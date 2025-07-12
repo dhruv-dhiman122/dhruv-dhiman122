@@ -1,6 +1,5 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm dhruv dhimman</h1>
-<h3 align="center">I am looking forward for becoming a computer scientist or a developer. I am looking forward for specializing in AI and ML, Quantum Computing.q</h3>
+<h3 align="center">I am looking forward for becoming a computer scientist or a developer. I am looking forward for specializing in AI and ML, Quantum Computing.</h3>
 
 - 🔭 I’m currently working on **PyGraph**
 
