@@ -1,6 +1,4 @@
 # 💫 About Me:
-🔭 I'm currently working on PyGraph<be>
-🌱 I’m currently learning about C++ and bash<be>
 🤝 I am ready to contribute to AI and ML and their related library<be>
 😄 Pronouns: He/Him<be>
 🤔 I’m looking for help with low-level coding, AI, and ML<be>
